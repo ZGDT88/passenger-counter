@@ -1,0 +1,25 @@
+body {
+  height: 100vh;
+  background:
+  linear-gradient(
+  145deg,
+  black,
+  darkblue,
+  black
+  );
+}
+
+.box {
+  color: navy;
+  border-radius: 15%;
+  width: 250px;
+  background: radial-gradient(
+  lightblue,
+  gray,
+  black)
+  ;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+}
